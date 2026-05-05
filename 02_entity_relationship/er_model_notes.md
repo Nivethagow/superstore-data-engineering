@@ -31,4 +31,4 @@
 
 ## ER Diagram
 
-See `ERD.png` in this folder for the full visual diagram.
+See `er_diagram.png` in this folder for the full visual diagram.
