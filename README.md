@@ -50,11 +50,7 @@ superstore-retail-bi/
 ├── 05_business_insights/
 │   ├── insights_summary.md
 │   ├── superstore_powerbi.pbix               ← Power BI dashboard file
-│   └── charts/
-│       ├── sales_by_category.png             ← screenshot from Power BI
-│       ├── sales_by_segment.png
-│       └── sales_by_state.png
-│
+│  
 └── 06_presentation/
     └── Presentation.pdf
 ```
