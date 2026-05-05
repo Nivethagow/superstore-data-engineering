@@ -50,9 +50,8 @@ superstore-retail-bi/
 ├── 05_business_insights/
 │   ├── insights_summary.md
 │   ├── superstore_powerbi.pbix               ← Power BI dashboard file
-│  
-└── 06_presentation/
-    └── Presentation.pdf
+
+
 ```
 
 ---
